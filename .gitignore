@@ -3,5 +3,5 @@
 bin/
 
 # diese beiden sind eclipse interne die eh mit deinen einstellungen überschrieben werden
-.project
-.classpath
+#.project
+#.classpath
